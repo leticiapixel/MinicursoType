@@ -1,0 +1,9 @@
+Anotações Curso Typescript
+
+É compilado em javascript
+
+Precisa de arquivo de configuração
+
+Tsc - -init -> comando para gerar arquivo de configuração
+
+Tsc -> comando para executar o código
